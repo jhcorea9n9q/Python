@@ -1,2 +1,2 @@
-# Python
-Python Web
+# Pythoni
+Python Web EEE
